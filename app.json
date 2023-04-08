@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "P-1",
-    "slug": "P-1",
+    "slug": "firstexpo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "45272809-52f2-467b-8946-644c8f3e4f8d"
+      }
+    },
+    "owner": "alx67"
   }
 }
